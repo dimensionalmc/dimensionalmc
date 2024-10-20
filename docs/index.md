@@ -14,5 +14,5 @@ cellLinks:
 
   - cname: Add To MCBE/PE
     curl: donate
-    cimage: media/mcbepelogo.jpeg
+    cimage: media/servermap.jpg
 ---
