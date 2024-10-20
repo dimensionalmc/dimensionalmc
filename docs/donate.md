@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://ko-fi.com/
+tourl: minecraft://?addExternalServer=DimensionalMC|DimensionalMC.aternos.me:36035
 ---
