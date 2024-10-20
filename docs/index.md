@@ -6,7 +6,7 @@ navname: Home
 cellLinks:
   - cname: Server Map
     curl: map
-    cimage: media/demo02.jpg
+    cimage: media/oneblockmap.jpeg
 
   - cname: Screenshots
     curl: screenshots
