@@ -12,7 +12,7 @@ cellLinks:
     curl: screenshots
     cimage: media/demo03.jpg
 
-  - cname: Add Server To Minecraft
+  - cname: Add To MCBE/PE
     curl: donate
     cimage: media/demo04.jpg
 ---
