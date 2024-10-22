@@ -13,6 +13,6 @@ cellLinks:
     cimage: media/servermap.jpg
 
   - cname: Add To MCBE/PE
-    curl: donate
+    curl: addtomcpebe
     cimage: media/servermap.jpg
 ---
